@@ -1,0 +1,19 @@
+{
+  "name": "teste-api",
+  "version": "1.0.0",
+  "description": "Teste Bry",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonBastos/Backend-desafio.git"
+  },
+  "author": "Jefferson Bastos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffersonBastos/Backend-desafio/issues"
+  },
+  "homepage": "https://github.com/jeffersonBastos/Backend-desafio#readme"
+}
